@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finance Tracker Backend (FastAPI)
 
 ## 📌 Overview
@@ -28,3 +29,7 @@ It allows users to manage financial transactions and analyze their spending patt
 ## ▶️ How to Run
 
 1. Install dependencies:
+=======
+# finance-tracker-backend
+Python-based Finance Tracker Backend built with FastAPI, featuring CRUD operations, filtering, analytics, and role-based access control (admin, analyst, viewer) using SQLite and SQLAlchemy.
+>>>>>>> 8415808ce858b0cf8a5f3a3ba7c5522f3d129253
